@@ -1,2 +1,10 @@
+A partir de uma lista de subdominions que voce pode obter em programas como:
+subfinder
+amass
+sublist3r
 
+scriptao.sh recolhe portar abertas ate a porta 5000, ips, e enumera hosts com https:// para que possa ser usado em conjunto com o EyeWitness ou até com Tab List do Google Chrome.
+A função da aplicação é encontrar subdominios com conteúdos diversos para a exploração, mas com foco em subdominios offlines para que possa ser feito o subdoman takeover
+
+Referers:
 https://takeover.cyberint.com/scan/
